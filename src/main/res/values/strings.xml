@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KoinApp</string>
+    <string name="no_network">No network connection</string>
+</resources>
